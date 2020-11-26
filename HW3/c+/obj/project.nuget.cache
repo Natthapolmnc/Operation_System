@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B4Jg8bGL3IaTRgPvT8GzHy0WRmA5cMvE6hXnFbGrDA1D1pjX07BqyXKpf7a00vITHgKjSI/Sz1hjqYeY8XtJOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fame\\Desktop\\ProjectPrograming'\\OS\\HW\\HW4\\c+\\Errordiff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fame\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Fame\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Fame\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
